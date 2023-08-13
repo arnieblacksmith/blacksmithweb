@@ -3,7 +3,7 @@ body{
    font-family: Georgia, 'Times New Roman', Times, serif;
    width: 1000px;
    margin: auto;
-   background-color: #0de659;
+   background-color: #9fae6c;
 }
 h1 {
    color: #271a61 ;
@@ -81,5 +81,10 @@ textarea {
    
 }
 
+td {
+   border-style: groove;
 
-
+}
+img:hover.item {
+   transform: scale(3)
+}
